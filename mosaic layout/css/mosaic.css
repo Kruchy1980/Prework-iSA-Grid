@@ -49,3 +49,7 @@ h1,h2 {
     grid-column: 1 / 5;
     grid-row: 5 / 7;
 }
+/* We can change the angle of the squares by such a command */
+#content {
+    transform: rotateZ(45deg) scale(0.7);
+}
