@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(196, 181, 181);
+    font-family: "Nunito Semibold";
+    text-align: center;
+}
+
+/* Title and subtitle style*/
+h1,h2 {
+    margin: 0;
+    padding: 11px;
+    text-align: center;
+    margin: 5px auto;
+    background-color: grey;
+    border: 1px solid grey;
+    width: 600px;
+    border-radius: 20px;
+}
+/* Grid Areas */
